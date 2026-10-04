@@ -165,18 +165,18 @@ class Ayden:
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🌟 **[AURA](https://github.com/aydensanthosh/AURA)** | Flagship project I'm building right now. *(Add a one-line pitch here.)* | `Python` `Django` `AI/ML` | 🚧 In progress |
-| 📦 **[Project 2](https://github.com/aydensanthosh/PROJECT_2)** | Short description of what it does and why it matters. | `Node.js` `Express` `MongoDB` | ✅ Completed |
-| 🧠 **[Project 3](https://github.com/aydensanthosh/PROJECT_3)** | ML / data project, e.g. prediction or classification model. | `scikit-learn` `pandas` `seaborn` | ✅ Completed |
-| 🌐 **[Project 4](https://github.com/aydensanthosh/PROJECT_4)** | Full-stack web app with auth and a REST API. | `React` `TypeScript` `PostgreSQL` | 🧪 Experimental |
+| 📦 **[100-day-code-challenge](https://github.com/aydensanthosh/100-day-code-challenge)** | Trying to become a Jack of All trades, as fast as possible | `Node.js` `Express` `MongoDB` `React.js` `Tailwind CSS` | ✅ Completed |
+<!-- | 🧠 **[Project 3](https://github.com/aydensanthosh/PROJECT_3)** | ML / data project, e.g. prediction or classification model. | `scikit-learn` `pandas` `seaborn` | ✅ Completed |
+| 🌐 **[Project 4](https://github.com/aydensanthosh/PROJECT_4)** | Full-stack web app with auth and a REST API. | `React` `TypeScript` `PostgreSQL` | 🧪 Experimental | -->
 
 ---
 
 ## ⏱️ Coding Time *(optional)*
 
 <!-- Sign up at wakatime.com, enable public stats, then uncomment: -->
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aydensanthosh&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
--->
+
 
 ---
 
