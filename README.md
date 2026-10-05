@@ -87,16 +87,6 @@ class Ayden:
 
 </div>
 
-
-## ⏱️ Coding Time *(optional)*
-
-<!-- Sign up at wakatime.com, enable public stats, then uncomment: -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aydensanthosh&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
-
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
