@@ -5,7 +5,9 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Building+scalable+backends+%E2%9A%99%EF%B8%8F;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Currently+crafting+AURA+%E2%9C%A8;Open+to+collaborate+%26+learn+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  </a>
+</div>
+<div>
 
 ## 👨‍💻 About Me
 ```python
@@ -18,7 +20,8 @@ class Ayden:
     learning = ["Machine Learning", "System Design", "Cloud & DevOps"]
     motto    = "Ship it, measure it, make it better."
 ```
-
+</a>
+</div align='left'>
 
 - 🌱 Diving deeper into AI/ML and scalable backend architecture
 - 💬 Ask me about **Node.js, REST APIs, databases, and ML basics**
